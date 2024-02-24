@@ -225,11 +225,10 @@ body {
       margin: 30px;
   }
   .buttons {
-      /* margin-bottom: 30px; */
       display: flex;
       justify-content: center;
       align-items: center;
-      margin-top: -0px;
+      
   }
   .seek_slider,
   .volume_slider {
