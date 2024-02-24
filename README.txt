@@ -1,8 +1,17 @@
-Task-2
-- Music-Player with JavaScript-
+[            https://audio-player74.netlify.app/          ]
+
+COPY and PASTE the above link in the browser.
+
+Note: At first, images take several seconds to load in the browser.
+Please be patient till the images load.
+
+
+
+Task-2:
+- Music Player with HTML, CSS, JavaScript-
 - ---------------------------------------
 
-I created a audio player with the added functionality of a custom speed control feature. The features that I have inserted into this audio player are:
+I created an audio player with the added functionality of a custom speed control feature. The features that I have inserted into this audio player are:
 
 1 Ability to adjust playback speed with three different speeds.  
 2 Skip the song to the next.
@@ -11,7 +20,7 @@ I created a audio player with the added functionality of a custom speed control 
 
   --------------------------------------------------
 
--This audio player build such a way that it will work across different devices and browsers for compatibility and responsiveness.
+-This audio player is built in such a way that it will work across different devices and browsers for compatibility and responsiveness.
 
 -The main used entities are DOM manipulation, which will modify and change elements of the HTML.
   --------------------------------------------------
