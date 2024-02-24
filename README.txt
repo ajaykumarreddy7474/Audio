@@ -2,9 +2,8 @@
 
 COPY and PASTE the above link in the browser.
 
-Note: At first, images take several seconds to load in the browser.
-Please be patient till the images load.
-
+Note: At first, Image and Music files take several seconds to load in the browser.
+Please be patient till the data-file loads.
 
 
 Task-2:
