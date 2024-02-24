@@ -34,6 +34,7 @@ let prev_btn = document.querySelector('.prev-track');
 
 let seek_slider = document.querySelector('.seek_slider');
 let volume_slider = document.querySelector('.volume_slider');
+
 let curr_time = document.querySelector('.current-time');
 let total_duration = document.querySelector('.total-duration');
 let wave = document.getElementById('wave');
@@ -180,6 +181,7 @@ function seekTo(){
 function setVolume(){
     curr_track.volume = volume_slider.value / 100;
 }
+
 function setUpdate(){
     let seekPosition = 0;
     if(!isNaN(curr_track.duration)){
@@ -200,3 +202,6 @@ function setUpdate(){
         total_duration.textContent = durationMinutes + ":" + durationSeconds;
     }
 }
+
+
+

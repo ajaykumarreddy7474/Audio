@@ -184,7 +184,7 @@ body {
   }
   .buttons {
       margin-bottom: 20px;
-      margin-top: -25px;
+      margin-top: -10px;
   }
   .seek_slider,
   .volume_slider {
@@ -225,11 +225,11 @@ body {
       margin: 30px;
   }
   .buttons {
-      margin-bottom: -20px;
+      /* margin-bottom: 30px; */
       display: flex;
       justify-content: center;
       align-items: center;
-      margin-top: -25px;
+      margin-top: -0px;
   }
   .seek_slider,
   .volume_slider {
